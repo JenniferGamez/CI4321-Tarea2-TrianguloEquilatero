@@ -11,3 +11,8 @@
 - P5.js: Utilizado para renderizar del triángulo en la API de P5Js.
 - Three.js: Utilizado para renderizar del triángulo en la API de ThreeJs.
 - `live-server`: Servidor local para probar las implementaciones en Three.js y P5.js.
+
+
+## Video en Youtube
+
+[![Mira el video](https://img.youtube.com/vi/)](https://www.youtube.com/watch?v=2Rec8-oyRAg)
