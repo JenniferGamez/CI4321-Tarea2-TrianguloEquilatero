@@ -43,3 +43,7 @@ Para ejecutar este proyecto, sigue estos pasos:
    live-server
 
 Este comando inicia el servidor y abrirá tu navegador y mostrará el triángulo coloreado en una escena 2D.
+
+## Capturas de Pantalla
+
+![Triángulo Renderizado](renderizado_threejs.png)
